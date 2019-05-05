@@ -21,3 +21,7 @@ To show the example browser run these commands in your terminal:
 | `npm run update` | To build a new `examples.json` file if you add a new example. |
 
 Alternatively, if you have your own local web server installed, you could configure it to serve the `/public` folder from the repo and you will get access to the examples interface.
+
+# Browse Phaser 3 Examples on-line
+
+[public/](Browse Phaser 3 Examples on-line)
