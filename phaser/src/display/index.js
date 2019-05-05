@@ -1,0 +1,20 @@
+/**
+ * @author       Richard Davey <rich@photonstorm.com>
+ * @copyright    2019 Photon Storm Ltd.
+ * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
+ */
+
+/**
+ * @namespace Phaser.Display
+ */
+
+module.exports = {
+
+    Align: require('./align'),
+    BaseShader: require('./shader/BaseShader'),
+    Bounds: require('./bounds'),
+    Canvas: require('./canvas'),
+    Color: require('./color'),
+    Masks: require('./mask')
+
+};

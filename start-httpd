@@ -1,0 +1,6 @@
+#!/bin/bash
+if ! npm list -g http-server>/dev/null; then
+  echo "not install http-server by npm, install it"
+  npm install -g http-server
+fi
+http-server phaser3-examples/public/
